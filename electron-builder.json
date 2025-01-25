@@ -1,0 +1,11 @@
+{
+  "appId": "com.alaskcode.moodclock",
+  "files": [
+    "dist-electron",
+    "dist-react"
+  ],
+  "linux": {
+    "target": "AppImage",
+    "category": "Development"
+  }
+}
