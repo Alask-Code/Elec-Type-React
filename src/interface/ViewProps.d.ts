@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
 
 export interface ViewProps {
-  children: ReactNode;
+  children?: ReactNode;
 }
